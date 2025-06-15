@@ -35,12 +35,6 @@
   - Category-based habit performance
   - Weekly/monthly summaries
 
-### ✨ Bonus Features
-- 📅 Calendar view of daily completions
-- 🏆 Longest streak tracking
-- 🎨 Color-coded habit categories
-- 💬 Random motivational quotes on dashboard
-- 📱 Fully responsive on mobile and desktop
 
 ---
 
